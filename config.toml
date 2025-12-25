@@ -88,6 +88,10 @@ name = "友链🔗"
 url = "/friends"
 weight = 7
 
+[[menu.main]]
+name = "纸👆"
+url = "/publications"
+weight = 7
 
 [[menu.footer]]
 name = "CSDN"
