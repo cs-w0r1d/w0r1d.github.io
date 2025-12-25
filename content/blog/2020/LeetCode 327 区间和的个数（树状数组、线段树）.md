@@ -1,7 +1,7 @@
 ---
 title: LeetCode 327 区间和的个数（树状数组、线段树）
-date: 2020-11-07T16:41:38+08:00
-lastmod: 2020-11-07T16:41:38+08:00
+date: 2022-11-07T16:41:38+08:00
+lastmod: 2022-11-07T16:41:38+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210508221015.png"
 tags:

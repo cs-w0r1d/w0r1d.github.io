@@ -1,7 +1,7 @@
 ---
 title: C++中main函数的参数
-date: 2018-12-23T16:52:00+08:00
-lastmod: 2018-12-25T22:45:21+08:00
+date: 2024-12-23T16:52:00+08:00
+lastmod: 2024-12-25T22:45:21+08:00
 draft: false
 featured_image: https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/02/17/63ee7d57c978c.jpg
 tags:

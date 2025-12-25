@@ -1,7 +1,7 @@
 ---
 title: GoLang相关的问题以及搜到的解决办法
-date: 2019-05-07T22:11:55+08:00
-lastmod: 2019-05-07T22:11:55+08:00
+date: 2024-05-07T22:11:55+08:00
+lastmod: 2024-05-07T22:11:55+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210508221223.png"
 tags:

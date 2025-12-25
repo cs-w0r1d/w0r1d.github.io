@@ -1,7 +1,7 @@
 ---
 title: Linux的进程、线程、文件描述符是什么
-date: 2020-05-02T01:35:51+08:00
-lastmod: 2020-05-02T01:35:51+08:00
+date: 2022-05-02T01:35:51+08:00
+lastmod: 2022-05-02T01:35:51+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/02/17/63ee7d40e7fd4.jpg"
 tags:

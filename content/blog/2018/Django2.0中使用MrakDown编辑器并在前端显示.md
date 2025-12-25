@@ -1,7 +1,7 @@
 ---
 title: Django2.0中使用MrakDown编辑器并在前端显示
-date: 2018-12-16T16:31:00+08:00
-lastmod: 2018-12-31T17:27:50+08:00
+date: 2024-12-16T16:31:00+08:00
+lastmod: 2024-12-31T17:27:50+08:00
 draft: false
 featured_image: https://s1.ax1x.com/2018/12/31/F4JAnx.jpg
 tags:

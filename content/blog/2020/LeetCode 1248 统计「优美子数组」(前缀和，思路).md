@@ -1,7 +1,7 @@
 ---
 title: LeetCode 1248 统计「优美子数组」(前缀和，思路)
-date: 2020-04-21T11:06:37+08:00
-lastmod: 2020-04-21T11:06:37+08:00
+date: 2022-04-21T11:06:37+08:00
+lastmod: 2022-04-21T11:06:37+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210508221015.png"
 tags:

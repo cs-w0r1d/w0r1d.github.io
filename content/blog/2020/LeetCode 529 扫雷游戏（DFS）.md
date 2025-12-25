@@ -1,7 +1,7 @@
 ---
 title: LeetCode 529 扫雷游戏（DFS）
-date: 2020-08-20T01:59:22+08:00
-lastmod: 2020-08-20T01:59:22+08:00
+date: 2022-08-20T01:59:22+08:00
+lastmod: 2022-08-20T01:59:22+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210508221015.png"
 tags:

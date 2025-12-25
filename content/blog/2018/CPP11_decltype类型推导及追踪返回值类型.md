@@ -1,7 +1,7 @@
 ---
 title: C++11:decltype类型推导及追踪返回值类型
-date: 2018-12-24T17:37:00+08:00
-lastmod: 2019-01-02T14:48:39+08:00
+date: 2024-12-24T17:37:00+08:00
+lastmod: 2025-01-02T14:48:39+08:00
 draft: false
 featured_image: https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/02/17/63ee7d57c978c.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Makefile的简单教程
-date: 2018-12-22T17:02:00+08:00
-lastmod: 2018-12-25T12:12:54+08:00
+date: 2020-12-22T17:02:00+08:00
+lastmod: 2023-12-25T12:12:54+08:00
 draft: false
 featured_image: https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/02/17/63ee7d40e7fd4.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Linux使用中杂七杂八的问题总结
-date: 2018-12-16T13:07:00+08:00
-lastmod: 2020-03-31T16:25:50+08:00
+date: 2020-12-16T13:07:00+08:00
+lastmod: 2025-03-31T16:25:50+08:00
 draft: false
 featured_image: https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/02/17/63ee7d605b35a.jpg
 tags:

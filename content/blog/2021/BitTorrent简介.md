@@ -1,7 +1,7 @@
 ---
 title: BitTorrent简介
-date: 2021-04-11T17:09:13+08:00
-lastmod: 2021-04-11T17:09:13+08:00
+date: 2023-04-11T17:09:13+08:00
+lastmod: 2023-04-11T17:09:13+08:00
 draft: false
 featured_image: https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210411143727.png
 tags:

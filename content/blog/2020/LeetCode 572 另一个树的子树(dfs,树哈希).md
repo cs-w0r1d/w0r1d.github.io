@@ -1,7 +1,7 @@
 ---
 title: LeetCode 572 另一个树的子树(dfs,树哈希)
-date: 2020-05-07T02:05:57+08:00
-lastmod: 2020-05-07T02:05:57+08:00
+date: 2022-05-07T02:05:57+08:00
+lastmod: 2022-05-07T02:05:57+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210508221015.png"
 tags:

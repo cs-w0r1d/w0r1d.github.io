@@ -1,7 +1,7 @@
 ---
 title: Go Channel 详解
-date: 2020-09-01T11:13:34+08:00
-lastmod: 2020-09-01T11:13:34+08:00
+date: 2022-09-01T11:13:34+08:00
+lastmod: 2022-09-01T11:13:34+08:00
 draft: false
 featured_image: "https://image-1252109614.cos.ap-beijing.myqcloud.com/img/20210508221223.png"
 tags:
