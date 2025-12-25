@@ -6,7 +6,7 @@ enableGitInfo = true
 languageCode = "zh-cn"
 theme = "diary"
 title = "🌀w0r1d's Blog"
-baseURL = "https://w0r1d.github.io/" 
+baseURL = "https://github.com/cs-w0r1d/w0r1d.github.io.git/" 
 
 
 
