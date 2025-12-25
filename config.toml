@@ -88,10 +88,6 @@ name = "友链🔗"
 url = "/friends"
 weight = 7
 
-[[menu.main]]
-name = "RSS📢"
-url = "/index.xml"
-weight = 8
 
 [[menu.footer]]
 name = "CSDN"
