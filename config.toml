@@ -5,8 +5,8 @@ enableEmoji = true
 enableGitInfo = true
 languageCode = "zh-cn"
 theme = "diary"
-title = "🌀riba2534's Blog"
-baseURL = "https://blog.riba2534.cn/" 
+title = "🌀w0r1d's Blog"
+baseURL = "https://w0r1d.github.io/" 
 
 
 
@@ -29,8 +29,8 @@ unsafe = true
 # enableGitalk = false
 enableOpenGraph = true
 enableTwitterCards = true
-title = "🌀riba2534's Blog"
-description = "riba2534的个人技术博客，分享编程、投资、生活的思考与经验"
+title = "🌀w0r1d's Blog"
+description = "w0r1d的个人技术博客，分享编程、投资、生活的思考与经验"
 enableMathJax = true
 enableLaTeX=true
 enableReadingTime = true
@@ -98,7 +98,7 @@ weight = 1
 
 [[menu.footer]]
 name = "GitHub"
-url = "https://github.com/riba2534"
+url = "https://github.com/cs-w0r1d"
 weight = 2
 [[menu.footer]]
 name = "Zhihu"
