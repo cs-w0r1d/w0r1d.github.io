@@ -2,7 +2,7 @@
 title: "📚📚📚Publications"
 date: 2025-12-25T01:18:05+08:00
 draft: false
-type: friends
+type: publications
 enableVue: true
 featured_image: "https://youke2.picui.cn/s1/2025/12/25/694d4b3bc75ab.jpg"
 comment : true
