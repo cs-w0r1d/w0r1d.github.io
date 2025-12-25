@@ -26,9 +26,10 @@ tabWidth = 4
 unsafe = true
 
 [params]
-# enableGitalk = false
+nableGitalk = true 
 enableOpenGraph = true
 enableTwitterCards = true
+
 title = "🌀w0r1d's Blog"
 description = "w0r1d的个人技术博客，分享编程、投资、生活的思考与经验"
 enableMathJax = true
